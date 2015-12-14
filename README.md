@@ -1,5 +1,6 @@
 # GroceryList
 Simple Android project showcasing Realm.io w/ list adapter.
+
 Also uses:
   * ActionBar sherlock
   * Intents to send email
