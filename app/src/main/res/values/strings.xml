@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Grocery List</string>
+    <string name="add_grocery">Add Item</string>
+    <string name="enter_grocery_hint">Enter an item here&#8230;</string>
+    <string name="grocery_view_default_text">Captain Crunch. Big Box. Extra Sugar.</string>
+    <string name="total">Total: 0</string>
+    <string name="remove_menuitem">Delete</string>
+    <string name="empty_list">Empty List</string>
+    <string name="email_list">Email List</string>
+</resources>

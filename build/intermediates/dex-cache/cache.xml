@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/sorren/AndroidStudioProjects/GroceryList_lmatysik/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/home/sorren/AndroidStudioProjects/GroceryList_lmatysik/app/build/intermediates/pre-dexed/release/classes-97db8a308ee10281cec8c8fda9cc0d0c7d67e27e.jar" />
+    </item>
+    <item
+        jar="/home/sorren/AndroidStudioProjects/GroceryList_lmatysik/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="af64527b748983a75de9c0756e9768b56b240a49">
+        <dex dex="/home/sorren/AndroidStudioProjects/GroceryList_lmatysik/app/build/intermediates/pre-dexed/debug/classes-ad17b77ce5f1d4af686200bdbdac21747a709ada.jar" />
+    </item>
+    <item
+        jar="/home/sorren/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/home/sorren/AndroidStudioProjects/GroceryList_lmatysik/app/build/intermediates/pre-dexed/release/support-annotations-22.2.0-edb825fcbab5dd51ce3d4701f70915f453261c8d.jar" />
+    </item>
+    <item
+        jar="/home/sorren/AndroidStudioProjects/GroceryList_lmatysik/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/home/sorren/AndroidStudioProjects/GroceryList_lmatysik/app/build/intermediates/pre-dexed/release/internal_impl-22.2.0-efefe3a29434f7d022734a576c5de7747570cfcd.jar" />
+    </item>
+    <item
+        jar="/home/sorren/.gradle/caches/modules-2/files-2.1/io.realm/realm-android/0.86.0/e49a43bcbbc3d5e5491dd2f4d3799a504b618e6b/realm-android-0.86.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e49a43bcbbc3d5e5491dd2f4d3799a504b618e6b">
+        <dex dex="/home/sorren/AndroidStudioProjects/GroceryList_lmatysik/app/build/intermediates/pre-dexed/release/realm-android-0.86.0-da97de07b5f5bc067da859920d79b3433c578be8.jar" />
+    </item>
+
+</items>

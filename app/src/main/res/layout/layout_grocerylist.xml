@@ -1,0 +1,46 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+    <LinearLayout
+        android:id="@+id/addGroceryLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/addGroceryButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/add_grocery" />
+
+        <EditText
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:id="@+id/newGroceryEditText"
+            android:hint="@string/enter_grocery_hint"
+            android:singleLine="true"
+            android:inputType="textCapWords" />
+
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/groceryListViewGroup"
+        android:layout_width="match_parent"
+        android:layout_height="380dp"
+        android:orientation="vertical"
+        android:descendantFocusability="blocksDescendants"
+        android:layout_weight="1.03" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="28dp"
+        android:text="@string/total"
+        android:id="@+id/totalGroceriesTextView"
+        android:textAlignment="textEnd"
+        android:editable="false"
+        />
+</LinearLayout>
